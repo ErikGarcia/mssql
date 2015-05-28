@@ -1,0 +1,9 @@
+{
+    "name": "MSSQLConnection",
+    "version": "0.0.0",
+    "description": "MSSQL Connection",
+    "dependencies": {
+        "mssql": "latest"
+    },
+    "author": "Erik Garcia"
+}
